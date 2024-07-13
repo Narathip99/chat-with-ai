@@ -23,8 +23,7 @@ const MessgeBox = ({ chats }: ChatProps) => {
       <div>
         {chats.role === "user" ? (
           <Avatar>
-            <AvatarImage src="https://github.com/shadcn.png" alt="@shadcn" />
-            <AvatarFallback>CN</AvatarFallback>
+            <AvatarFallback></AvatarFallback>
           </Avatar>
         ) : (
           <Avatar>
