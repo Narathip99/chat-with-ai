@@ -1,6 +1,6 @@
 # Chat with AI
 
-This project is created to learn how to use the Gemini API, Create by Next.js, TypeScript, and ShadCN. The application allows users to interact with an AI-powered chatbot.
+This project is created to learn how to use the Gemini API, created with Next.js, TypeScript, and ShadCN. The application allows users to interact with an AI-powered chatbot.
 
 ## Demo
 
@@ -17,15 +17,13 @@ You can check out the live demo [here](https://chat-with-ai-phi.vercel.app/).
 
 To get a local copy up and running, follow these simple steps.
 
-### Prerequisites
-
-Make sure you have the following installed:
-
-- Node.js
-- npm or yarn
-
 ### Installation
 
-1. Clone the repo
    ```sh
-   git clone https://github.com/your-username/chat-with-ai.git
+   git clone https://github.com/Narathip99/chat-with-ai.git
+
+   cd chat-with-ai
+
+   npm install
+
+   npm run dev
