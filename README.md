@@ -34,7 +34,7 @@ To get a local copy up and running, follow these simple steps.
    npm install
    ```
 
--4 create .env inner file 
+- 4 create .env inner file 
    ```sh
    NEXT_PUBLIC_API_KEY=your_api_key
    ```
