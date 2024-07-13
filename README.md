@@ -19,11 +19,27 @@ To get a local copy up and running, follow these simple steps.
 
 ### Installation
 
+- 1
    ```sh
    git clone https://github.com/Narathip99/chat-with-ai.git
+   ```
 
-   cd chat-with-ai
+- 2
+  ```sh
+  cd chat-with-ai
+  ```
 
+- 3
+   ```sh
    npm install
+   ```
 
+-4 create .env inner file 
+   ```sh
+   NEXT_PUBLIC_API_KEY=your_api_key
+   ```
+
+- 5
+  ```sh
    npm run dev
+  ```
